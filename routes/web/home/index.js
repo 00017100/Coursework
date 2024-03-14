@@ -7,3 +7,4 @@ router.get('/add', home_controller.add);
 router.get('/update', home_controller.update);
 
 module.exports = router;
+
